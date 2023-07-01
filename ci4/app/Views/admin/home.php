@@ -67,8 +67,8 @@
         <div class="home-img">
             <img src="<?= base_url('images/Naga.png') ?>" alt="Naga">
         </div>
-        <h1 class="tittle-home">Selamat Datang Di Sistem Administrasi Surat PT. 9-Naga</h1>
         <br>
+        <h1 class="tittle-home">Selamat Datang Di Sistem Administrasi Surat PT. 9-Naga</h1>
         <br>
         <div class="row wrap-home">
             <div class="col-sm-4 mb-3 mb-sm-0">
